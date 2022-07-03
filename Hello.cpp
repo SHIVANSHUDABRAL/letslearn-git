@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	
-	cout<<"value of i<"<<10<<endl;
+	int i=120;
+	cout<<"the value of i"<<i<<endl;
 }
